@@ -13,7 +13,7 @@ Features:
 - Speaker selection (6)
 
 Speakers and vocabulary:
-- Black Mesa Announcement System (600+)
+- iSHAT (600+)
 - H.E.V. Assistant (130+)
 - Barney (170+)
 - Combine Police (100+)
