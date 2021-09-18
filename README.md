@@ -1,7 +1,7 @@
 iSHAT's Text to Speech With Dictionary
 ==========================
 
-https://ishatspremium.github.io/iSHATsTextToSpeechWithDictionary.html
+https://ishatspremium.github.io/iSHATsTextToSpeechWithDictionary
 
 Tested in FF only.
 
