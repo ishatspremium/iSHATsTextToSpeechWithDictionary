@@ -1,7 +1,7 @@
-Half Life / Text to Speech
+iSHAT's Text to Speech With Dictionary
 ==========================
 
-https://tz-dev.github.io/hl_text2speech/index.html
+https://ishatspremium.github.io/iSHATsTextToSpeechWithDictionary.html
 
 Tested in FF only.
 
